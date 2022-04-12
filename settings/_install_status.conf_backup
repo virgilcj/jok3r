@@ -1,0 +1,75 @@
+[ajp]
+ajpy = 2020-11-02 17:34:49
+
+[domain]
+fierce = 2020-11-02 17:34:49
+
+[ftp]
+ftpmap = 2020-11-02 17:35:06
+lftp = 2020-11-02 17:35:16
+
+[http]
+nuclei = 2020-11-02 17:36:24
+nuclei-template = 2020-11-02 17:36:58
+wafw00f = 2020-11-02 17:37:12
+identywaf = 2020-11-02 17:37:15
+whatweb = 2020-11-02 17:38:35
+nikto = 2020-11-02 17:38:41
+cmsmap = 2020-11-02 17:38:44
+cmseek = 2020-11-02 17:38:47
+dirhunt = 2020-11-02 17:39:02
+photon = 2020-11-02 17:39:10
+wpscan = 2020-11-02 17:43:02
+dirsearch = 2020-11-02 17:43:24
+wfuzz = 2020-11-02 17:43:50
+
+[iscsi]
+open-iscsi = 2020-11-02 17:49:32
+
+[java-rmi]
+barmie = 2020-11-02 17:49:39
+jmxbf = 2020-11-02 17:49:42
+
+[jdwp]
+jdwp-shellifier = 2020-11-02 17:49:47
+
+[mssql]
+msdat = 2020-11-02 17:50:01
+
+[multi]
+changeme = 2020-11-02 17:50:29
+jok3r-scripts = 2020-11-02 17:50:43
+jok3r-pocs = 2020-11-02 17:51:13
+metasploit = False
+nmap = 2020-11-02 17:52:06
+hydra = 2020-11-02 17:52:12
+testssl = 2020-11-02 17:52:30
+ysoserial = 2020-11-02 17:52:50
+
+[oracle]
+odat = False
+
+[postgresql]
+psql = 2020-11-02 17:53:41
+
+[rdp]
+rdpscan = 2020-11-02 17:53:50
+
+[smb]
+nullinux = 2020-11-02 17:53:56
+smbmap = False
+
+[smtp]
+smtp-user-enum = 2020-11-02 17:54:11
+
+[snmp]
+snmpwn = 2020-11-02 17:54:34
+snmp-check = 2020-11-02 17:54:40
+
+[ssh]
+ssh-user-enum-cve-2018-15473 = 2020-11-02 17:54:59
+libssh-scanner = 2020-11-02 17:55:04
+
+[telnet]
+grabtelnet = 2020-11-02 17:55:07
+

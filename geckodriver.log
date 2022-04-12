@@ -1,0 +1,4 @@
+1615196600352	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL524Wh"
+*** You are running in headless mode.
+1615196611765	Marionette	INFO	Listening on port 46069
+1615196611787	Marionette	WARN	TLS certificate errors will be ignored for this session
