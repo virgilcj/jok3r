@@ -31,6 +31,8 @@
    <h3 align="center">Network & Web Pentest Automation Framework</h3>
    <p align="center"><a href="https://www.jok3r-framework.com/">www.jok3r-framework.com</a></p>
 
+**This project is a fork from the Original https://github.com/koutto/jok3r , but in this repo I have made multiple enhancements from the original. I will update the README in time with the exact updates added by me.
+
 **WARNING: Project is still in version 3 BETA. It is still under active development 
 and bugs might be present.**
 
